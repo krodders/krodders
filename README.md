@@ -1,4 +1,4 @@
-### Hi there! I'm Katelyn Rees. 👋
+# Hi there! I'm Katelyn Rees. 👋
 
 ## About Me
 Hello! Welcome to my small corner of the GitHub World. My name is Katelyn Rees, and I am a Junior at the University of Arizona double-majoring in Computer Science and Mechanical Engineering.
