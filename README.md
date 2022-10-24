@@ -5,6 +5,8 @@ Hello! Welcome to my small corner of the GitHub World. My name is Katelyn Rees, 
 
 I am passionate about technology, math, design, programming, and, above all, learning! I hope to work and learn within the junction of Mechanical Engineering and Computer Science, and I am currently excited about robotics, the metaverse, autonomous vehicles, and game design.
 
+This summer I worked as a Software Engineering Intern at American Express. Through this experience I learned skills necessary to be a good programmer in the professional world.
+
 Beyond my studies, I play intramural soccer and volleyball at my school, and I enjoy running 🏃‍♀️, reading 📖, playing the piano 🎹, listening to music 🎵, and watching good movies! I love Marvel and aspire to be Tony Stark!
 
 Fun Fact About Me: I can do a backflip! 😄
@@ -27,6 +29,7 @@ Fun Fact About Me: I can do a backflip! 😄
 * I was selected as the Outstanding Junior for the Aerospace & Mechanical Engineering Department for the year 2022.
 * I have earned the College of Engineering Dean's List Award during all of my active semesters.
 
+LAST UPDATED: 10/24/2022
 
 <!--
 **krodders/krodders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
